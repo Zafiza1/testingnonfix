@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: gray;
+}
+
+.inputSection {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Tambahan agar gambar tidak terlihat melintang */
+    margin: 20px auto; /* Pusatkan gambar */
+}
