@@ -9,9 +9,6 @@ body {
     margin-bottom: 20px;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-    display: block; /* Tambahan agar gambar tidak terlihat melintang */
-    margin: 20px auto; /* Pusatkan gambar */
+.imageSection {
+    margin-top: 20px;
 }
